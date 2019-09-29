@@ -62,7 +62,8 @@ header.startup h1 {
 }
 
 header.rules {
+  background-position: center;
   background-image: url("rules.png");
   background-size: auto;
-  background-position: center;
+  height: 100%;
 }
