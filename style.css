@@ -60,4 +60,11 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
+header.rules {
+ background-position: center;
+  background-image: url("rules.jpg");
+  background-size: cover;
+  background-color: #cccccc;
+  height: 100%;
+}
